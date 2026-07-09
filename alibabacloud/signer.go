@@ -13,8 +13,7 @@ import (
 	"slices"
 	"strings"
 	"time"
-
-	"github.com/google/uuid"
+	"uuid"
 )
 
 const ALGORITHM = "ACS3-HMAC-SHA256"
