@@ -3,7 +3,7 @@ module github.com/okrc/caddy-upload-cert
 go 1.27
 
 require (
-	github.com/caddyserver/caddy/v2 v2.11.6
+	github.com/caddyserver/caddy/v2 v2.11.7
 	github.com/caddyserver/certmagic v0.25.6
 	go.uber.org/zap v1.28.0
 )
